@@ -1,0 +1,84 @@
+{
+    "products":[
+        {
+            "_id":"mobile1",
+            "image":"/images/mobile1.jpeg",
+            "title":"Mobile-1 title",
+            "description":"Mobile-1 description",
+            "availableSizes":["X","L","XL"],
+            "price":200
+        },
+        {
+            "_id":"mobile2",
+            "image":"/images/mobile2.jpeg",
+            "title":"Mobile-2 title",
+            "description":"Mobile-2 description",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+        },
+        {
+            "_id":"mobile3",
+            "image":"/images/mobile3.jpeg",
+            "title":"Mobile-3 title",
+            "description":"Mobile-3 description",
+            "availableSizes":["X","L"],
+            "price":250
+        },
+        {
+            "_id":"mobile4",
+            "image":"/images/mobile4.jpeg",
+            "title":"Mobile-4 title",
+            "description":"Mobile-4 description",
+            "availableSizes":["X","XL"],
+            "price":350
+        },
+        {
+            "_id":"mobile5",
+            "image":"/images/mobile5.jpeg",
+            "title":"Mobile-5 title",
+            "description":"Mobile-5 description",
+            "availableSizes":["L","XL"],
+            "price":550
+        },
+        {
+            "_id":"mobile6",
+            "image":"/images/mobile6.jpeg",
+            "title":"Mobile-6 title",
+            "description":"Mobile-6 description",
+            "availableSizes":["X","XL"],
+            "price":200
+        },
+        {
+            "_id":"mobile7",
+            "image":"/images/mobile7.jpeg",
+            "title":"Mobile-7 title",
+            "description":"Mobile-7 description",
+            "availableSizes":["XXXL"],
+            "price":500
+        },
+        {
+            "_id":"mobile8",
+            "image":"/images/mobile8.jpeg",
+            "title":"Mobile-8 title",
+            "description":"Mobile-8 description",
+            "availableSizes":["X","L","XL"],
+            "price":250
+        },
+        {
+            "_id":"mobile9",
+            "image":"/images/mobile9.jpeg",
+            "title":"Mobile-9 title",
+            "description":"Mobile-9 description",
+            "availableSizes":["L","XL"],
+            "price":300
+        },
+        {
+            "_id":"mobile10",
+            "image":"/images/mobile10.jpeg",
+            "title":"Mobile-10 title",
+            "description":"Mobile-10 description",
+            "availableSizes":["X","L","XL"],
+            "price":500
+        }
+    ]
+}
