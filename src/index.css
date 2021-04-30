@@ -99,10 +99,6 @@ footer {
 }
 .product img {
   max-width: 30rem;
-  /* top: 45%;
-  left: 50%;
-  position: relative;
-  transform: translate(-45%, -50%); */
   margin-left: 6rem;
   max-height: 30rem;
 }
